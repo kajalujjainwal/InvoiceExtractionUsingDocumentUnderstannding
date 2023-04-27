@@ -1,0 +1,32 @@
+ExpoHub expohub street
+
+123456789
+
+ABC 123456 India
+
+UIPATH EXPOHUB
+
+Billed To Rohan Verma.
+.
+
+Description Shared Hosting LateFee
+
+Date of Issue 22/04/2020
+
+Due Date 22/05/2020
+
+Invoice Number 873103.
+
+Rate Rs.78,000.00 Rs.1,250.00 Rs.0.00
+
+Amount Due (INR)
+
+Rs.79,250.00
+
+Qty Line Total 1 Rs.78,000.00 1 Rs.1,250.00 1 Rs.0.00
+
+Subtotal           79,250.00   
+Tax                0.00        
+Total              79,250.00   
+Amount Paid        0.00        
+Amount Due (INR)   Rs.79,250.00
